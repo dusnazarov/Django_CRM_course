@@ -78,7 +78,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'elyor_db',
         'USER': 'root',
-        'PASSWORD': 'Ed$1115Ed$',
+        'PASSWORD': 'Testing$123',
         'HOST': 'localhost',
         'PORT': '3306',
     }

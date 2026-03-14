@@ -10,7 +10,7 @@ import mysql.connector
 dataBase = mysql.connector.connect(
     host = "localhost",
     user = "root",
-    password = "Ed$1115Ed$"
+    password = "Testing$123"
     
     )
 
